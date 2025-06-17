@@ -107,6 +107,19 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Business Intel",
+        "groups": [
+          {
+            "group": "Business Intel",
+            "pages": [
+              "business/business-intelligence",
+              "business/competitor-analysis",
+              "business/market-research-simulated-scams"
+            ]
+          }
+        ]
       }
     ]
   }
